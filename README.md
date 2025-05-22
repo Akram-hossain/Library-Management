@@ -102,3 +102,6 @@ The system prevents borrowing if a book's quantity is zero.
 Only authenticated users can access the dashboard, authors, books, and borrowing features.
 
 For any issues, contact the developer or refer to Laravel/React documentation.
+
+# Video URL
+https://www.loom.com/share/076e7a1b6e394b8597357b3170eb8c22?sid=9238402f-8e44-4ab3-8b07-b985df22b955
